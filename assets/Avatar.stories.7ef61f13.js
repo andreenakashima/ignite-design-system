@@ -1,0 +1,2 @@
+import{A as a}from"./index.b11263de.js";import"./index.0e525001.js";import"./iframe.17b73bd1.js";import"./index.a630c029.js";import"./jsx-runtime.74103bf2.js";const e={title:"Data Display/Avatar",component:a,args:{src:"https://github.com/andreenakashima.png",alt:"Andre Nakashima"},argTypes:{src:{control:{type:"text"}}}},m={},p={args:{src:void 0}},c=["Primary","WithFallback"];export{m as Primary,p as WithFallback,c as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.7ef61f13.js.map
